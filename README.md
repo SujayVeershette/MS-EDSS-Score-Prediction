@@ -61,8 +61,8 @@ EDSS_Prediction/
 
 ```bash
 # Clone the repository
-git clone https://github.com/your-username/edss-prediction-ms.git
-cd edss-prediction-ms
+git clone https://github.com/SujayVeershette/MS-EDSS-Score-Prediction.git
+cd MS-EDSS-Score-Prediction
 
 # Create a virtual environment
 python -m venv env
